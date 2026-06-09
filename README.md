@@ -16,14 +16,14 @@
 | 4 | ADAM ZHARFAN BIN IZAHA | 2417003 |
 | 5 | MUHAMMAD KHAIRUL IKHWAN BIN ABD HALIM | 2417367 |
 
----
+
 
 ## Project Overview
 
 **Introduction:**
 Gob Sports is a web-based sports equipment e-commerce system developed using the Laravel framework. The application allows users to browse and purchase sports equipment for Soccer, Rugby, and Badminton. Users can filter products by sport, category, and price range, manage their shopping cart, complete a multi-step checkout process, track their orders, and leave product reviews after receiving their purchases.
 
----
+
 
 ## Project Objectives
 
@@ -32,7 +32,7 @@ Gob Sports is a web-based sports equipment e-commerce system developed using the
 - **User Experience Goal:** Provide an intuitive, responsive interface for browsing and purchasing sports products
 - **Business Goal:** Enable efficient order management, product filtering, and customer review system
 
----
+
 
 ## Target Users
 
@@ -58,7 +58,7 @@ Gob Sports is a web-based sports equipment e-commerce system developed using the
 - **Product Reviews:** Leave star ratings and comments after receiving orders
 - **My Reviews:** View all submitted reviews in one place
 
----
+
 
 ## Technical Implementation
 
@@ -189,7 +189,7 @@ class Order extends Model {
 - **Interactive Elements:** AJAX add-to-cart, star rating picker, 3-step checkout wizard
 - **Product Images:** Real product images stored via Laravel storage
 
----
+
 
 ## User Authentication System
 
@@ -205,7 +205,7 @@ class Order extends Model {
 - Input validation on all form submissions
 - Middleware protection for authenticated routes
 
----
+
 
 ## Installation and Setup Instructions
 
@@ -250,7 +250,7 @@ php artisan serve
 npm run dev
 ```
 
----
+
 
 ## Challenges Faced and Solutions
 
@@ -270,7 +270,7 @@ npm run dev
 - **Problem:** Building a multi-step form without extra routes or page reloads
 - **Solution:** Used JavaScript to show/hide step sections and validate each step before proceeding
 
----
+
 
 ## Future Enhancements
 
@@ -280,7 +280,7 @@ npm run dev
 - **Wishlist Feature:** Save products for later
 - **Mobile App:** Native iOS and Android application
 
----
+
 
 ## Learning Outcomes
 
@@ -296,7 +296,7 @@ npm run dev
 - **Problem Solving:** Debugging Laravel errors and UI issues
 - **Documentation:** Writing clear project documentation
 
----
+
 
 ## References
 
@@ -306,7 +306,7 @@ npm run dev
 4. MDN Web Docs. (2024). Web Development Resources. Retrieved from https://developer.mozilla.org/
 5. Stack Overflow. (2024). Programming Q&A Platform. Retrieved from https://stackoverflow.com/
 
----
+
 
 ## Conclusion
 
@@ -319,7 +319,7 @@ Gob Sports successfully demonstrates the implementation of a complete sports e-c
 - Implemented product review system with purchase verification
 - Applied security best practices for user authentication and form validation
 
----
+
 
 - **Project Completion Date:** 12 June 2026
 - **Course:** BIIT 2305 Web Application Development
