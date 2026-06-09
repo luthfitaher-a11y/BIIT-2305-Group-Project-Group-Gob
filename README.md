@@ -5,7 +5,7 @@
 ## Group Information
 
 **Group Name**: Gob
-**Section**: (Your Section Number)
+**Section**: 01
 
 **Group Members**:
 | No | Name | Matric No |
